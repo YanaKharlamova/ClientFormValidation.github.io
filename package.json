@@ -1,0 +1,14 @@
+{
+  "name": "clientformvalidation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/main.scss dist/css/main.css --recursive"
+  },
+  "author": "Yana Kh.",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
