@@ -34,3 +34,6 @@ Run this commands in terminal:
 
 **2)** `npm run sass` - to run the project.
 
+## Screenshots:
+**1.**
+![](screenshot/catch-a-dog-game.PNG)
