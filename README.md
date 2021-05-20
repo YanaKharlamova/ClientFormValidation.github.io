@@ -36,4 +36,13 @@ Run this commands in terminal:
 
 ## Screenshots:
 **1.**
-![](screenshot/catch-a-dog-game.PNG)
+![](screenshots/screenshot1.PNG)
+
+**2.**
+![](screenshots/screenshot2.PNG)
+
+**3.**
+![](screenshots/screenshot3.PNG)
+
+**4.**
+![](screenshots/screenshot4.PNG)
