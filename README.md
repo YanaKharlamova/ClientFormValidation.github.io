@@ -29,6 +29,7 @@ Main structure of this project is formed by these functions:
 **function isValidEmail()**
 ## Installing:
 Run this commands in terminal:
+
 **1)** `npm install` - to install project dependencies in the local node_modules folder;
 
 **2)** `npm run sass` - to run the project.
