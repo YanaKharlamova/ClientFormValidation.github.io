@@ -3,7 +3,7 @@
 Realisation of client form validation.
 
 Live version:
-## Build with:
+## Built with:
 * JS
 * HTML
 * CSS
