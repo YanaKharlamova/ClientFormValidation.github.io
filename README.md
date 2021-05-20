@@ -4,10 +4,10 @@ Realisation of client form validation.
 
 Live version:
 ## Build with:
-*JS
-*HTML
-*CSS
-*SCSS
+* JS
+* HTML
+* CSS
+* SCSS
 ## Implementation:
 Main structure of this project is formed by these functions:
 
