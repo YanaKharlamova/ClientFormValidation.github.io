@@ -1,6 +1,6 @@
 # ClientFormValidation
 ## About
-Realisation of client form validation.
+Realization of client form validation.
 
 Live version:https://yanakharlamova.github.io/ClientFormValidation.github.io/
 ## Built with:
