@@ -2,7 +2,7 @@
 ## About
 Realization of client form validation.
 
-Live version:https://yanakharlamova.github.io/ClientFormValidation.github.io/
+Live version: https://yanakharlamova.github.io/ClientFormValidation.github.io/
 ## Built with:
 * JS
 * HTML
